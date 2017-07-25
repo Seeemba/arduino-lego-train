@@ -3,4 +3,6 @@ Arduino controlled train (LEGO) with connecting to an Android device via Bluetoo
 
 ArduinoLegoTrainBLE.ino - the Arduino sketch.
 
-arduino101-train-EvothingsStudio-project.zip - all source code files for Evothings Studio.
+arduino101-train-EvothingsStudio-project.zip - all source code files for Evothings Studio. To get started I used Arduino101 LED On/Off BLE 
+as the example.
+
